@@ -10,7 +10,11 @@
 
 !\[Database](https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge\\\&logo=mysql)
 
+<<<<<<< HEAD
 !\[Status](https://github.com/ksquare2020/azure-3-tier-architecture/blob/main/three%20tier-api.png)
+=======
+!\[Status]([https://img.shields.io/badge/Status-Completed-success?style=for-the-badge](https://github.com/ksquare2020/azure-3-tier-architecture/blob/main/three%20tier-api.png))
+>>>>>>> e80f58d5d848bf31eafbecf1b23d30e88b3480c4
 
 
 
