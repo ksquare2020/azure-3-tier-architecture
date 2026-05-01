@@ -1,5 +1,8 @@
 \# 🚀 Production-Grade 3-Tier Architecture on Azure
 
+!\[Azure Architecure](https://github.com/ksquare2020/azure-3-tier-architecture/blob/main/Arch-Diagram-1.png)
+
+!\[Azure Architecture](https://github.com/ksquare2020/azure-3-tier-architecture/blob/main/Arch-Diagram-2.png)
 
 !\[Azure](https://github.com/ksquare2020/azure-3-tier-architecture/blob/main/three%20tier-azure.png)
 
@@ -41,7 +44,7 @@ All resources were \*\*provisioned manually using Azure Portal\*\* to gain hands
 
 
 
-!\[Architecture](architecture/architecture-diagram.png)
+!\[Architecture](https://github.com/ksquare2020/azure-3-tier-architecture/blob/main/Arch-Diagram-1.png)
 
 
 
@@ -198,21 +201,22 @@ curl http://<APPLICATION-GATEWAY-PUBLIC-IP>/api/airports/getallairports
 
 
 All resources were created manually. Screenshots are added as proof:
+ 
+!\[Azure](https://github.com/ksquare2020/azure-3-tier-architecture/blob/main/three%20tier-azure.png)
 
+!\[Azure](https://github.com/ksquare2020/azure-3-tier-architecture/blob/main/three%20tier-azure%202.png)
 
+!\[Azure](https://github.com/ksquare2020/azure-3-tier-architecture/blob/main/three%20tier-azure%203.png)
 
-!\[VNet](screenshots/vnet.png)
+!\[Azure](https://github.com/ksquare2020/azure-3-tier-architecture/blob/main/three%20tier-azure%204.png)
 
-!\[Subnets](screenshots/subnets.png)
+!\[Azure](https://github.com/ksquare2020/azure-3-tier-architecture/blob/main/three%20tier-azure%205.png)
 
-!\[App Gateway](screenshots/app-gateway.png)
-
-!\[Load Balancer](screenshots/load-balancer.png)
-
-!\[VM](screenshots/app-vm.png)
-
-!\[Database](screenshots/database.png)
-
+!\[Architecture](https://img.shields.io/badge/Architecture-3--Tier-green?style=for-the-badge)
+ 
+!\[Status](https://github.com/ksquare2020/azure-3-tier-architecture/blob/main/three%20tier-api.png)
+ 
+!\[Status](https://github.com/ksquare2020/azure-3-tier-architecture/blob/main/three%20tier-web.png)
 
 
 \---
@@ -273,25 +277,24 @@ airspace-3tier-azure/
 
 ├── architecture/
 
-│   └── architecture-diagram.png
+│   └── Arch-Diagram-1.png
+
+│   └── Arch-Diagram-2.png
 
 │
 
 ├── screenshots/
 
-│   ├── vnet.png
+│   ├── three tier-azure.png
+ 
+│   ├── three tier-azure 2.png
 
-│   ├── subnets.png
+│   ├── three tier-azure 3.png
 
-│   ├── app-gateway.png
+│   ├── three tier-azure 4.png
 
-│   ├── load-balancer.png
+│   └── three tier-azure 5.png
 
-│   ├── app-vm.png
-
-│   └── database.png
-
-│
 
 └── docs/
 
