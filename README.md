@@ -1,25 +1,24 @@
 \# 🚀 Production-Grade 3-Tier Architecture on Azure
 
 
+!\[Azure](https://github.com/ksquare2020/azure-3-tier-architecture/blob/main/three%20tier-azure.png)
 
-!\[Azure](https://img.shields.io/badge/Cloud-Azure-blue?style=for-the-badge\\\&logo=microsoftazure)
+!\[Azure](https://github.com/ksquare2020/azure-3-tier-architecture/blob/main/three%20tier-azure%202.png)
+
+!\[Azure](https://github.com/ksquare2020/azure-3-tier-architecture/blob/main/three%20tier-azure%203.png)
+
+!\[Azure](https://github.com/ksquare2020/azure-3-tier-architecture/blob/main/three%20tier-azure%204.png)
+
+!\[Azure](https://github.com/ksquare2020/azure-3-tier-architecture/blob/main/three%20tier-azure%205.png)
 
 !\[Architecture](https://img.shields.io/badge/Architecture-3--Tier-green?style=for-the-badge)
-
-!\[Backend](https://img.shields.io/badge/Backend-.NET-512BD4?style=for-the-badge\\\&logo=dotnet)
-
-!\[Database](https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge\\\&logo=mysql)
-
-<<<<<<< HEAD
+ 
 !\[Status](https://github.com/ksquare2020/azure-3-tier-architecture/blob/main/three%20tier-api.png)
-=======
-!\[Status]([https://img.shields.io/badge/Status-Completed-success?style=for-the-badge](https://github.com/ksquare2020/azure-3-tier-architecture/blob/main/three%20tier-api.png))
->>>>>>> e80f58d5d848bf31eafbecf1b23d30e88b3480c4
-
+ 
+!\[Status](https://github.com/ksquare2020/azure-3-tier-architecture/blob/main/three%20tier-web.png)
 
 
 \---
-
 
 
 \## 📌 Overview
